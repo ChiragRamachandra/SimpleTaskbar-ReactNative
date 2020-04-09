@@ -1,4 +1,4 @@
-# chirag.ramachandra-gmail.com
+# Simple Taskbar | React Native
 Simple Taskbar | React Native
 
 
